@@ -9,13 +9,11 @@ import org.bukkit.plugin.java.JavaPlugin
 class HomingSnowball : JavaPlugin() ,Listener{
 
     override fun onEnable() {
-        // Plugin startup logic
         logger.info("Plugin Enabled")
         server.pluginManager.registerEvents(this,this)
     }
 
     override fun onDisable() {
-        // Plugin shutdown logic
         logger.info("Plugin Disabled")
     }
 
