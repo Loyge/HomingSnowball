@@ -1,0 +1,4 @@
+name: HomingSnowball
+version: ${project.version}
+main: work.lo7.mc.homingsnowball.HomingSnowball
+authors: [L0Y]
