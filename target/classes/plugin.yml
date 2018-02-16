@@ -1,0 +1,4 @@
+name: HomingSnowball
+version: 1.0-SNAPSHOT
+main: work.lo7.mc.homingsnowball.HomingSnowball
+authors: [L0Y]
