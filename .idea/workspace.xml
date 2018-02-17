@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36fd3bd9-1582-4aae-b892-e1f6531d20aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/work/lo7/mc/homingsnowball/HomingSnowball.kt" afterPath="$PROJECT_DIR$/src/main/java/work/lo7/mc/homingsnowball/HomingSnowball.kt" />
-    </list>
+    <list default="true" id="36fd3bd9-1582-4aae-b892-e1f6531d20aa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -341,12 +339,12 @@
       <workItem from="1518812333237" duration="1377000" />
       <workItem from="1518813863569" duration="64000" />
       <workItem from="1518813932306" duration="18000" />
-      <workItem from="1518813963174" duration="917000" />
+      <workItem from="1518813963174" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11414000" />
+    <option name="totallyTimeSpent" value="11633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="1209" height="803" extended-state="0" />
